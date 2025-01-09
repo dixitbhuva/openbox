@@ -9,6 +9,7 @@ Currently i am running debian 12
 - openbox
 - pipewire
 - brightnessctl
+- playerctl
 
 ## Without Display Manager from tty1
 add this to your **.xinitrc**
